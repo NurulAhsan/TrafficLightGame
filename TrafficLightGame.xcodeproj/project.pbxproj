@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51357632232BA42900A14CD4 /* icons8-traffic-light-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 51357631232BA42900A14CD4 /* icons8-traffic-light-64.png */; };
 		516B3B262314F0C900ED733A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516B3B252314F0C900ED733A /* AppDelegate.swift */; };
 		516B3B282314F0C900ED733A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516B3B272314F0C900ED733A /* ViewController.swift */; };
 		516B3B2B2314F0C900ED733A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 516B3B292314F0C900ED733A /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		51357631232BA42900A14CD4 /* icons8-traffic-light-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-traffic-light-64.png"; sourceTree = "<group>"; };
 		516B3B222314F0C900ED733A /* TrafficLightGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLightGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		516B3B252314F0C900ED733A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		516B3B272314F0C900ED733A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				516B3B2C2314F0C900ED733A /* Assets.xcassets */,
 				516B3B2E2314F0C900ED733A /* LaunchScreen.storyboard */,
 				516B3B312314F0C900ED733A /* Info.plist */,
+				51357631232BA42900A14CD4 /* icons8-traffic-light-64.png */,
 			);
 			path = TrafficLightGame;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				516B3B302314F0C900ED733A /* LaunchScreen.storyboard in Resources */,
 				516B3B2D2314F0C900ED733A /* Assets.xcassets in Resources */,
+				51357632232BA42900A14CD4 /* icons8-traffic-light-64.png in Resources */,
 				516B3B2B2314F0C900ED733A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
